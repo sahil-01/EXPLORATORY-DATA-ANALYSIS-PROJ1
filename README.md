@@ -1,10 +1,8 @@
 # EXPLORATORY-DATA-ANALYSIS-PROJ1
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the “Individual household electric power consumption Data Set” which I have made available on the course web site:
-
 Dataset: Electric power consumption [20Mb]
 Description: Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.
 The following descriptions of the 9 variables in the dataset are taken from the UCI web site:
-
 Date: Date in format dd/mm/yyyy
 Time: time in format hh:mm:ss
 Global_active_power: household global minute-averaged active power (in kilowatt)
@@ -64,4 +62,3 @@ Create a separate R code file (\color{red}{\verb|plot1.R|}plot1.R, \color{red}{\
 Add the PNG file and R code file to the top-level folder of your git repository (no need for separate sub-folders)
 When you are finished with the assignment, push your git repository to GitHub so that the GitHub version of your repository is up to date. There should be four PNG files and four R code files, a total of eight files in the top-level folder of the repo.
 
-The four plots that you will need to construct are shown below.
